@@ -1,0 +1,34 @@
+@keyframes back{
+    0%{
+        bottom: 0%;
+        right: 0%;
+    }
+    100%{
+        bottom: 80%;
+        right: 0%;
+    }
+}
+@keyframes moveright{
+    0%{
+        bottom:20% ;
+        left: 0%;
+    }
+    50%{
+        bottom: 25%;
+        left: 50%;
+    }
+}
+@keyframes moveleft{
+    0%{
+        bottom: 0%;
+        right: 0%;
+    }
+    50%{
+        bottom: 0%;
+        right: 50%;
+    }
+    75%{
+        bottom: 30%;
+        right: 50%;
+    }
+}
